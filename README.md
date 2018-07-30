@@ -5,5 +5,5 @@
 3. 翻译的文章
 
 ## 目录
-- [2018/07/22 - Vue-cli原理分析](https://github.com/BooheeFE/weekly/issues/9)
+- [2018/07/05 - JavaScript 内存管理与常见的内存泄漏](https://github.com/lance10030/articles-and-notes/issues/1)
 
