@@ -5,5 +5,12 @@
 3. 翻译的文章
 
 ## 目录
-- [2018/07/05 - JavaScript 内存管理与常见的内存泄漏](https://github.com/lance10030/articles-and-notes/issues/1)
-
+### js
+- [JavaScript 内存管理与常见的内存泄漏](https://github.com/lance10030/articles-and-notes/issues/1)
+- [异常处理，"try..catch" [译]](https://github.com/lance10030/articles-and-notes/issues/3)
+- [前端骨架屏方案小结](https://github.com/lance10030/articles-and-notes/issues/4)
+- [webpack 原理与实践（一）：打包流程](https://github.com/lance10030/articles-and-notes/issues/5)
+- [webpack原理与实践（二）：实现一个webpack插件](https://github.com/lance10030/articles-and-notes/issues/6)
+异常处理，"try..catch" [译]
+### 工具
+- [chrome devtools` 官方文档阅读笔记](https://github.com/lance10030/articles-and-notes/issues/2)
